@@ -148,4 +148,4 @@ const Play = ({ questions, playerName, setHistory }) => {
     </div>
   );
 };
-export default Play;
+export default Play; 
