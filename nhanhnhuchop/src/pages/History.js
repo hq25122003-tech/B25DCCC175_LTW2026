@@ -38,4 +38,4 @@ const History = ({ history, setHistory }) => {
     </div>
   );
 };
-export default History;
+export default History; 
